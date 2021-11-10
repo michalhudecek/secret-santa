@@ -1,0 +1,24 @@
+{
+  "name": "secret-santa",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "santa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/michalhudecek/secret-santa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/michalhudecek/secret-santa/issues"
+  },
+  "homepage": "https://gitlab.com/michalhudecek/secret-santa#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "fs": "*",
+    "postmark": "^2.7.8"
+  }
+}
