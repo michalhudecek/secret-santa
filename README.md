@@ -8,7 +8,7 @@ create a file `/.env` with following structure:
 POSTMARK_API_TOKEN=""
 ```
 
-Add Postmark API token as the value
+Add [Postmark](https://postmarkapp.com/) API token as the value (Postmark is a paid email service)
 
 ## Send testing emails
 
