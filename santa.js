@@ -27,7 +27,7 @@ const RESTRICTIONS = [
   ["michal.hudecek@gmail.com", "jana@hudeckova.com"],
   ["ondrej.hudecek@protonmail.com", "sonkovastella@gmail.com"],
   ["vera.hudeckova@centrum.cz", "roman.hudecek@bonega.cz"],
-  ["hudecek87@gmail.com", "monika@hudeckova.com"],
+  ["info@petrhudecek.com", "monika@hudeckova.com"],
 ];
 
 // ⚠️ SET THIS TO TRUE TO SEND THE EMAILS TO ALL PEOPLE. DO ONLY AFTER TESTING!
