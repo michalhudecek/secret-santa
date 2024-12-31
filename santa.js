@@ -14,7 +14,7 @@ const EMAIL_SUBJECT = "🎅 Čí jsi Secret Santa?";
 const SANTAS = [
   "michal.hudecek@gmail.com",
   "jana@hudeckova.com",
-  "hudecek87@gmail.com",
+  "info@petrhudecek.com",
   "monika@hudeckova.com",
   "ondrej.hudecek@protonmail.com",
   "sonkovastella@gmail.com",
